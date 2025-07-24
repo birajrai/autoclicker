@@ -16,7 +16,7 @@
     "type-check": "tsc --noEmit"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=22.17.1"
   },
   "dependencies": {
     "@radix-ui/react-label": "^2.1.7",
