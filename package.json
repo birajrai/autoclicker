@@ -43,7 +43,7 @@
     "@vitejs/plugin-react": "^4.7.0",
     "@tailwindcss/vite": "^4.1.11",
     "prettier": "^3.6.2",
-    "typescript": "~5.8.3",
+    "typescript": "~5.9.3",
     "vite": "^7.0.6"
   },
   "repository": {
